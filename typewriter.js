@@ -1,4 +1,4 @@
-const sentence = "hello there from lighthouse labs I am over here";
+const sentence = "hello there from lighthouse labs";
 
 setTimeout(() => {
   for (let i = 0; i < sentence.length; i++) {
